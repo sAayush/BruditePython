@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70b6f67-91f0-4bf6-a529-6a34866fd301" name="Changes" comment="10 Questions">
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/10sumTillSingle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/11revNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/1printOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/2alphaNumericCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/3grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/4oddSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/5perfectNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/6anagramStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/7lcm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/8freqCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_easy/9revOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/10stonePiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/11listChar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/12loginBackend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/1IntersectionList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/2uniqueList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/3sumToTarget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/4rotateTimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/5temperature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/6powerOfTwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/7findMedian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/8vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment01_medium/9indexError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f70b6f67-91f0-4bf6-a529-6a34866fd301" name="Changes" comment="Assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +54,8 @@
     "Python.11revNum.executor": "Run",
     "Python.11stonePiles.executor": "Run",
     "Python.12listChar.executor": "Run",
+    "Python.12loginBackend.executor": "Run",
+    "Python.13startsWith.executor": "Run",
     "Python.1IntersectionList.executor": "Run",
     "Python.1printOps.executor": "Run",
     "Python.2alphaNumericCount.executor": "Run",
@@ -101,8 +77,8 @@
     "Python.palindrome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Programs/Brudite/BruditePython",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -222,35 +198,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="BruditePython" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9indexError" />
+        <item itemvalue="Python.8vowels" />
         <item itemvalue="Python.12loginBackend" />
         <item itemvalue="Python.11listChar" />
         <item itemvalue="Python.10stonePiles" />
-        <item itemvalue="Python.9indexError" />
-        <item itemvalue="Python.8vowels" />
       </list>
     </recent_temporary>
   </component>
@@ -286,11 +240,20 @@
       <option name="project" value="LOCAL" />
       <updated>1715953209234</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Assignment">
+      <option name="closed" value="true" />
+      <created>1716148869364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716148869364</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 Questions" />
+    <MESSAGE value="Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment" />
   </component>
 </project>
