@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f70b6f67-91f0-4bf6-a529-6a34866fd301" name="Changes" comment="Assignment" />
+    <list default="true" id="f70b6f67-91f0-4bf6-a529-6a34866fd301" name="Changes" comment="Assignment">
+      <change afterPath="$PROJECT_DIR$/Assignment02/10email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/1product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/2revString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/3generatorEven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/4logTimeDecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/5vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/6power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/7fibGen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/8memoDecorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment02/9uniqElements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/inheritence/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/inheritence/single.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/primeGen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/bankAccount.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/bankAccount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/bookCatalog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/bookCatalog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/carClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/carClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/employeeStuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/employeeStuff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/gradeCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/gradeCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/guessGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/guessGame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/multiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/multiplicationTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question10/shapeArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment0/shapeArea.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +75,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.10email.executor": "Run",
     "Python.10sumTillSingle.executor": "Run",
     "Python.11revNum.executor": "Run",
     "Python.11stonePiles.executor": "Run",
@@ -58,27 +84,40 @@
     "Python.13startsWith.executor": "Run",
     "Python.1IntersectionList.executor": "Run",
     "Python.1printOps.executor": "Run",
+    "Python.1product.executor": "Run",
     "Python.2alphaNumericCount.executor": "Run",
+    "Python.2revString.executor": "Run",
+    "Python.3generatorEven.executor": "Run",
     "Python.3grade.executor": "Run",
     "Python.3sumToTarget.executor": "Run",
+    "Python.4logTimeDecorator.executor": "Run",
     "Python.4oddSum.executor": "Run",
     "Python.4rotateTimes.executor": "Run",
     "Python.5perfectNumber.executor": "Run",
     "Python.5temperature.executor": "Run",
+    "Python.5vowels.executor": "Run",
+    "Python.6power.executor": "Run",
     "Python.6powerOfTwo.executor": "Run",
+    "Python.7fibGen.executor": "Run",
     "Python.7findMedian.executor": "Run",
     "Python.7lcm.executor": "Run",
+    "Python.8memoDecorator.executor": "Run",
     "Python.8vowels.executor": "Run",
     "Python.9indexError.executor": "Run",
     "Python.9revOrder.executor": "Run",
+    "Python.9uniqElements.executor": "Run",
+    "Python.abc.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.guessGame.executor": "Run",
+    "Python.jumpingElements.executor": "Run",
     "Python.multiplicationTable.executor": "Run",
     "Python.palindrome.executor": "Run",
+    "Python.primeGen.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/Programs/Brudite/BruditePython",
+    "last_opened_file_path": "E:/Programs/Pycharm/Project-tests",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -87,8 +126,8 @@
       <recent name="E:\Programs\Brudite\BruditePython\Question10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12loginBackend">
-    <configuration name="10stonePiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.abc">
+    <configuration name="10email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BruditePython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment01_medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Programs\Brudite\BruditePython\Assignment01_medium\10stonePiles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment02/10email.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11listChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8memoDecorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BruditePython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment01_medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Programs\Brudite\BruditePython\Assignment01_medium\11listChar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment02/8memoDecorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12loginBackend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9uniqElements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BruditePython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment01_medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment01_medium/12loginBackend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment02/9uniqElements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8vowels" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BruditePython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment01_medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other/inheritence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment01_medium/8vowels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other/inheritence/abc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9indexError" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="primeGen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BruditePython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment01_medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Other" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment01_medium/9indexError.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other/primeGen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9indexError" />
-        <item itemvalue="Python.8vowels" />
-        <item itemvalue="Python.12loginBackend" />
-        <item itemvalue="Python.11listChar" />
-        <item itemvalue="Python.10stonePiles" />
+        <item itemvalue="Python.abc" />
+        <item itemvalue="Python.10email" />
+        <item itemvalue="Python.9uniqElements" />
+        <item itemvalue="Python.8memoDecorator" />
+        <item itemvalue="Python.primeGen" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716148869364</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Assignment">
+      <option name="closed" value="true" />
+      <created>1716149332100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716149332100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
