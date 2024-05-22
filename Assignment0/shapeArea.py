@@ -5,7 +5,7 @@ class Shape:
     def rectangle(self, l, b):
         return l * b
 
-    def triangel(self, b, h):
+    def triangle(self, b, h):
         return 0.5 * b * h
 
     def square(self, s):
@@ -35,7 +35,7 @@ class Triangle(Shape):
         self.h = h
 
     def area(self):
-        return self.triangel(self.b, self.h)
+        return self.triangle(self.b, self.h)
 
 
 class Square(Shape):
